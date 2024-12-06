@@ -1,5 +1,5 @@
 ## 유령을 피해 나무를 크리스마스 트리로 만들자! (Santa Pac-man)
-![키오스크](https://ifh.cc/g/gYYZpF.png)
+![키오스크](https://ifh.cc/g/FwhCAB.png)
 
 ## ❓ Pac-Man 게임을 왜 만들었을까요?
 > 
